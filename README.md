@@ -1,0 +1,2 @@
+# STUDENT-RECORD-MANAGEMENT-SYSTEM
+![first console](https://github.com/HabtamuArgeta/STUDENT-RECORD-MANAGEMENT-SYSTEM/blob/master/README%20-PHOTOS/2023-05-22%2010-05-04-66.png)
